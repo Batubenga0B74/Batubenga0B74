@@ -5,10 +5,9 @@
 
 ## 🧠 Sobre mim:
 - 🎓 Estudante de Engenharia Informática
-- 👨🏽‍💻 Desenvolvedor Web e Mobile na **Batchaca Code**
-- 🧪 QA Júnior com experiência em testes automatizados
-- 🚀 Fundador da **Batchaca code**
-- 🌱 Aprendendo e construindo com **React**, **Next.js**, **Cypress** e mais
+- 🧪 QA  com experiência em testes automatizados
+
+
 
 ---
 
